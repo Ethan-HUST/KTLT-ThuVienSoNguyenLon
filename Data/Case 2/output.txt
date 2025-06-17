@@ -1,0 +1,5 @@
+Ket qua cac phep tinh:
+Tong: 123456789
+Hieu: -123456789
+Tich: 0
+Thuong: 0.0

@@ -1,0 +1,5 @@
+Ket qua cac phep tinh:
+Tong: 333
+Hieu: -579
+Tich: -56088
+Thuong: -0.26973684
